@@ -13,7 +13,7 @@
 
 - 👨‍💻 **Portfolio:-**  <br>Coming Soon<br>
 
-- 📝 **I regularly write articles on**  <br>[https://lappistore.com/category/blog/](https://lappistore.com/category/blog/)<br>
+- 📝 **I regularly write articles on**  <br>Coming soon<br>
 
 - 💬 **Ask me about**  <br>JavaScript, React, PHP, Python, AWS, and any general software development questions.<br>
 
