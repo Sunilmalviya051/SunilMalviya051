@@ -11,7 +11,7 @@
 
 - 👯 **I’m looking to collaborate on**  <br>Fullstack projects<br>
 
-- 👨‍💻 **Portfolio:-**  <br>[https://portfolio.lappistore.com/](https://portfolio.lapstore.com/)<br>
+- 👨‍💻 **Portfolio:-**  <br>Coming Soon<br>
 
 - 📝 **I regularly write articles on**  <br>[https://lappistore.com/category/blog/](https://lappistore.com/category/blog/)<br>
 
